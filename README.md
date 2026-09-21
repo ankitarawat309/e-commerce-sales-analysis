@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing an e-commerce sales dataset using Python. The aim is to understand sales performance across products, countries, customers, and different months.
+This project analyzes an e-commerce sales dataset using Python to understand sales performance across products, countries, customers, and different months.
 
-I used the Online Retail dataset from the UCI Machine Learning Repository and followed the basic data analysis process: data cleaning, analysis, and visualization.
+I used the Online Retail dataset from the UCI Machine Learning Repository and followed the basic data analysis process of data cleaning, analysis, and visualization.
 
 ## 📊 Dataset
 
@@ -22,12 +22,11 @@ https://archive.ics.uci.edu/dataset/352/online%2Bretail
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook
 - VS Code
 
 ## 🧹 Data Cleaning
 
-Before analyzing the data, I checked it for duplicates, cancelled transactions, missing values, and invalid prices.
+Before starting the analysis, I checked the dataset for duplicate records, cancelled transactions, missing values, and invalid prices.
 
 The main cleaning steps were:
 
@@ -81,9 +80,10 @@ The charts are available in the `charts` folder.
 
 ```bash
 pip install pandas openpyxl matplotlib
+Run the Python script:
 python analysis.py
+👩‍💻 Project Purpose
 
-## 👩‍💻 Project Purpose
 I created this project to practice Python-based data analysis and understand how a real-world sales dataset can be cleaned, analyzed, and visualized.
 
-It is also part of my Data Analyst portfolio and demonstrates my use of Python, Pandas, and Matplotlib for working with real-world data.
+This project is also part of my Data Analyst portfolio and demonstrates my use of Python, Pandas, and Matplotlib for working with real-world data.
